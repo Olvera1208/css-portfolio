@@ -70,7 +70,7 @@ header nav ul li a:hover {
 
 
 .hero {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoZxIK9RKdux2wAgWiVz7i_pFTeSCUcvhUA&usqp=CAU");
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2019/10/spiderman-background-colorful_1570394437.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -117,7 +117,7 @@ header nav ul li a:hover {
 }
 
 .about-me p {
-    font-size: 20px;
+    font-size: 50px;
     padding: 0 30px;
     line-height: 1.6;
     width: 90%;
@@ -177,11 +177,11 @@ header nav ul li a:hover {
 }
 
 .project3 {
-    background-image: url("");
+    background-image: url("https://nerdist.com/wp-content/uploads/2021/12/Spider-Man-No-Way-Home-Miles-Morales.jpg");
     background-position: 60% 50%;
 }
 
-.project5 {
+.project4 {
     background-image: url("");
 }
 
